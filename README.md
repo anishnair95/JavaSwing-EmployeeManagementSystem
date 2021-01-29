@@ -14,7 +14,7 @@ Employee Management System
 <img src="img/forgot.png">
 
 ## Details
-<img src="img/deatil.png">
+<img src="img/deatail.png">
 
 ## Add Employee
 <img src="img/add.png">
